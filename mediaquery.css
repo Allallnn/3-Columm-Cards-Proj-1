@@ -1,0 +1,16 @@
+body {
+  background-color: red;
+}
+
+/* max-width */
+
+@media (max-width: 768px) {
+  body {
+    background-color: pink;
+  }
+}
+@media (max-width: 424px) {
+  body {
+    background-color: blue;
+  }
+}
